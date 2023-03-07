@@ -39,14 +39,14 @@
 [![Header](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=8B00FF)](https://discordapp.com/users/972570086776909834/)
 ##
 ### 🥇 Certificates
-- [Manual testing](https://github.com/Lesdead/ZubarevPavel/blob/master/manualQa.pdf)
-- [Automated testing](https://github.com/Lesdead/ZubarevPavel/blob/master/autoQa.pdf)
-- [Mobile apps testing](https://github.com/Lesdead/ZubarevPavel/blob/master/mobileQa.pdf)
-- [Java](https://github.com/Lesdead/ZubarevPavel/blob/master/javaQa.pdf)
-- [JavaScript](https://github.com/Lesdead/ZubarevPavel/blob/master/jsQA.pdf)
-- [Web testing](https://github.com/Lesdead/ZubarevPavel/blob/master/webQa.pdf)
-- [Security testing](https://github.com/Lesdead/ZubarevPavel/blob/master/securityQa.pdf)
-- [Load testing](https://github.com/Lesdead/ZubarevPavel/blob/master/loadQa.pdf)
+- [Manual testing](https://github.com/Lesdead/Lesdead/blob/master/manualQa.pdf)
+- [Automated testing](https://github.com/Lesdead/Lesdead/blob/master/autoQa.pdf)
+- [Mobile apps testing](https://github.com/Lesdead/Lesdead/blob/master/mobileQa.pdf)
+- [Java](https://github.com/Lesdead/Lesdead/blob/master/javaQa.pdf)
+- [JavaScript](https://github.com/Lesdead/Lesdead/blob/master/jsQA.pdf)
+- [Web testing](https://github.com/Lesdead/Lesdead/blob/master/webQa.pdf)
+- [Security testing](https://github.com/Lesdead/Lesdead/blob/master/securityQa.pdf)
+- [Load testing](https://github.com/Lesdead/Lesdead/blob/master/loadQa.pdf)
 - [Netology Diplom]()
 ##
 ## 🖥️ Workspace Setup
