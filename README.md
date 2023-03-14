@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-## My name is Zubarev Pavel, and I am a beginner QA engineer.
+## My name is Zubarev Pavel, and I am a beginner [QA engineer.](https://github.com/Lesdead/Lesdead/blob/main/certificates/Kurs.pdf)
 ### My Resume: 
-[![Header](https://img.shields.io/badge/google-2FB936?style=for-the-badge&logo=GoogleDrive&logoColor=white)](https://drive.google.com/file/d/15AE2YOfCZ7SdNV7sQUmRgiSX3z0163k1/view?usp=sharing) [![Header](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Lesdead/Lesdead/blob/main/ResumeEn.pdf)
+[![Header](https://img.shields.io/badge/google-2FB936?style=for-the-badge&logo=GoogleDrive&logoColor=white)](https://drive.google.com/file/d/15AE2YOfCZ7SdNV7sQUmRgiSX3z0163k1/view?usp=sharing) [![Header](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Lesdead/Lesdead/blob/main/Resume.pdf)
 ##
 ### 📚 Languages:
 ![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=E9D54D)
@@ -33,23 +33,17 @@
 ### 📈 Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesdead&show_icons=true&theme=yeblu)
 ##
-### 🔗 Follow Me:
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Lesdead1)
-[![Header](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=facebook&logoColor=31a5db)](https://www.facebook.com/profile.php?id=100012918308330)
-[![Header](https://img.shields.io/badge/WhatsAPP-090909?style=for-the-badge&logo=Whatsapp&logoColor=lime)](https://wa.me/972547902348)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/pavel-zubarev-08b004218/)
-[![Header](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=8B00FF)](https://discordapp.com/users/972570086776909834/)
-##
 ### 🥇 Certificates:
-- [Manual testing](https://github.com/Lesdead/Lesdead/blob/master/manualQa.pdf)
-- [Automated testing](https://github.com/Lesdead/Lesdead/blob/master/autoQa.pdf)
-- [Mobile apps testing](https://github.com/Lesdead/Lesdead/blob/master/mobileQa.pdf)
-- [Java](https://github.com/Lesdead/Lesdead/blob/master/javaQa.pdf)
-- [JavaScript](https://github.com/Lesdead/Lesdead/blob/master/jsQA.pdf)
-- [Web testing](https://github.com/Lesdead/Lesdead/blob/master/webQa.pdf)
-- [Security testing](https://github.com/Lesdead/Lesdead/blob/master/securityQa.pdf)
-- [Load testing](https://github.com/Lesdead/Lesdead/blob/master/loadQa.pdf)
-- [Netology Diplom]()
+- [QA engineer Diploma](https://github.com/Lesdead/Lesdead/blob/main/certificates/Kurs.pdf)
+- [Netology DiplomWork](https://github.com/Lesdead/Lesdead/blob/main/certificates/DiplomWork.jpeg)
+- [Manual testing](https://github.com/Lesdead/Lesdead/blob/main/certificates/manualQa.pdf)
+- [Automated testing](https://github.com/Lesdead/Lesdead/blob/main/certificates/autoQa.pdf)
+- [Mobile apps testing](https://github.com/Lesdead/Lesdead/blob/main/certificates/mobileQa.pdf)
+- [Java QA](https://github.com/Lesdead/Lesdead/blob/main/certificates/javaQa.pdf)
+- [JavaScript QA](https://github.com/Lesdead/Lesdead/blob/main/certificates/jsQA.pdf)
+- [Web testing](https://github.com/Lesdead/Lesdead/blob/main/certificates/webQa.pdf)
+- [Security testing](https://github.com/Lesdead/Lesdead/blob/main/certificates/securityQa.pdf)
+- [Load testing](https://github.com/Lesdead/Lesdead/blob/main/certificates/loadQa.pdf)
 ##
 ## 🖥️ Workspace Setup:
 ![macProM2](https://img.shields.io/badge/Macbook_Pro-M2-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -59,3 +53,10 @@
 ![XCode](https://img.shields.io/badge/XCode-00CED1?style=for-the-badge&logo=XCode&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-87CEFA?style=for-the-badge&logo=Android-Studio&logoColor=white)
 ![IdeaCE](https://img.shields.io/badge/intellij_Idea-800000?style=for-the-badge&logo=intellij-Idea&logoColor=white)
+##
+### 🔗 Follow Me:
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Lesdead1)
+[![Header](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=facebook&logoColor=31a5db)](https://www.facebook.com/profile.php?id=100012918308330)
+[![Header](https://img.shields.io/badge/WhatsAPP-090909?style=for-the-badge&logo=Whatsapp&logoColor=lime)](https://wa.me/972547902348)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/pavel-zubarev-08b004218/)
+[![Header](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=8B00FF)](https://discordapp.com/users/972570086776909834/)
