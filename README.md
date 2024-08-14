@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ## My name is Zubarev Pavel, and I am a beginner [QA engineer.](https://github.com/Lesdead/Lesdead/blob/main/certificates/Kurs.pdf)
 ### My Resume: 
-[![Header](https://img.shields.io/badge/google-2FB936?style=for-the-badge&logo=GoogleDrive&logoColor=white)](https://drive.google.com/file/d/15AE2YOfCZ7SdNV7sQUmRgiSX3z0163k1/view?usp=sharing) [![Header](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Lesdead/Lesdead/blob/main/Resume.pdf)
+[![Header](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Lesdead/Lesdead/blob/main/Resume.pdf)
 ##
 ### 📚 Languages:
 ![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=E9D54D)
